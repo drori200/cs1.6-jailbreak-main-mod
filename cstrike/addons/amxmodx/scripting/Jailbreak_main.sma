@@ -2,6 +2,7 @@
 
 #include <amxmodx>
 #include <amxmisc>
+#include <amxconst>
 #include <xs>
 #include <screenfade_util>
 #include <cstrike>
@@ -11,7 +12,6 @@
 #include <engine>
 #include <fun>
 #include <nvault>
-#include <infinite_round>
 #include <round_terminator>
 #include <jailbreak_const>
 #include <sqlx>
